@@ -24,16 +24,20 @@ undefined-datathon-2026/
 ├── README.md                          # File này
 ├── undefined-mcqs.ipynb              # Notebook - Phần 1: Câu hỏi trắc nghiệm
 ├── undefined-eda.ipynb               # Notebook - Phần 2: Phân tích dữ liệu
+├── undefined-model.ipynb             # Notebook - Phần 3: Mô hình Dự báo doanh thu
 │
 ├── datasets/                          # Bộ dữ liệu do Ban Tổ chức cung cấp
 │   ├── customers.csv
 │   ├── products.csv
 │   └── ...
 │
-└── output/                            # Kết quả và hình ảnh biểu đồ
-    ├── channel_hvc_rate_ltv.png
-    ├── hvc_category.png
-    └── ...
+├── output/                            # Kết quả và hình ảnh biểu đồ
+│   ├── channel_hvc_rate_ltv.png
+│   ├── hvc_category.png
+│   └── ...
+│
+└── submit/                            # Kết quả dự đoán
+    └── submission.csv
 ```
 
 # 3. Liên hệ
